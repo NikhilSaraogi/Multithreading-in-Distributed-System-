@@ -1,0 +1,7 @@
+This Operation is done on Nikhil's PC
+
+Time Taken in Sorting On multi Thread is in (milisecond)
+37
+
+Time Taken in Sorting On single Thread is in (milisecond)
+1428
